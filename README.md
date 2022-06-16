@@ -74,6 +74,14 @@ npx hardhat run scripts/<"deployContract"> --network <"network">
 
 ![docker](https://wallpaperaccess.com/full/2982327.jpg)
 
+image & container
+
+```
+  docker buid ...
+
+  docker run ...
+```
+
 ### compose
 
 !MUST cd to right directory
